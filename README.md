@@ -5,5 +5,7 @@ Memristors have recently received significant attention as ubiquitous device-lev
 
 See details in our paper "A Memristor-Based Optimization Framework for AI Applications, IEEE Circuits and Systems Magazine, 2018." https://arxiv.org/pdf/1710.08882.pdf
 
+Software: Matlab package
+
 Authors: Sijia Liu, Yangzhi Wang, Makan Fardad, Pramod K. Varshney
 
