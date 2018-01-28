@@ -9,3 +9,6 @@ Software: Matlab package
 
 Authors: Sijia Liu, Yangzhi Wang, Makan Fardad, Pramod K. Varshney
 
+For questions, please contact lsjxjtu@gmail.com
+
+
